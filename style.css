@@ -122,9 +122,6 @@ h1{
     375px 125px 0px #EEE,
     400px 125px 0px #EEE,
     425px 125px 0px #EEE,
-<<<<<<< HEAD
-    450px 125px 0px #EEE;
-=======
     450px 125px 0px #EEE,
 
     0px 150px 0px #EEE, /*Setima linha*/
@@ -245,8 +242,65 @@ h1{
     375px 275px 0px #32CD32,
     400px 275px 0px #32CD32,
     425px 275px 0px #000,
-    450px 275px 0px #EEE;
-
->>>>>>> de64b988e8cfa4c859d9e3c01e8de060f0ba9359
+    450px 275px 0px #EEE,
     
+    0px 300px 0px #EEE, /*13 linha*/
+    25px 300px 0px #000,
+    50px 300px 0px  #32CD32,
+    75px 300px 0px #32CD32,
+    100px 300px 0px #32CD32,
+    125px 300px 0px #32CD32,
+    150px 300px 0px #32CD32,
+    175px 300px 0px #32CD32, 
+    200px 300px 0px #32CD32,
+    225px 300px 0px #000,
+    250px 300px 0px #32CD32,
+    275px 300px 0px #32CD32,
+    300px 300px 0px #32CD32,
+    325px 300px 0px #32CD32,
+    350px 300px 0px #32CD32,
+    375px 300px 0px #32CD32,
+    400px 300px 0px #32CD32,
+    425px 300px 0px #000,
+    450px 300px 0px #EEE,
+    
+    0px 325px 0px #EEE, /*14 linha*/
+    25px 325px 0px #EEE,
+    50px 325px 0px  #000,
+    75px 325px 0px #32CD32,
+    100px 325px 0px #32CD32,
+    125px 325px 0px #32CD32,
+    150px 325px 0px #32CD32,
+    175px 325px 0px #32CD32, 
+    200px 325px 0px #32CD32,
+    225px 325px 0px #32CD32,
+    250px 325px 0px #32CD32,
+    275px 325px 0px #32CD32,
+    300px 325px 0px #32CD32,
+    325px 325px 0px #32CD32,
+    350px 325px 0px #32CD32,
+    375px 325px 0px #32CD32,
+    400px 325px 0px #000,
+    425px 325px 0px #EEE,
+    450px 325px 0px #EEE,
+    
+    0px 350px 0px #EEE, /*15 linha*/
+    25px 350px 0px #EEE,
+    50px 350px 0px  #000,
+    75px 350px 0px #000,
+    100px 350px 0px #228B22,
+    125px 350px 0px #32CD32,
+    150px 350px 0px #32CD32,
+    175px 350px 0px #32CD32, 
+    200px 350px 0px #32CD32,
+    225px 350px 0px #32CD32,
+    250px 350px 0px #32CD32,
+    275px 350px 0px #32CD32,
+    300px 350px 0px #32CD32,
+    325px 350px 0px #32CD32,
+    350px 350px 0px #228B22,
+    375px 350px 0px #000,
+    400px 350px 0px #000,
+    425px 350px 0px #EEE,
+    450px 350px 0px #EEE;    
 }
